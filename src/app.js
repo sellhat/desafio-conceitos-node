@@ -22,7 +22,7 @@ app.post("/repositories", (request, response) => {
 
   repositories.push(repository);
 
-  return response.json([repository]);
+  return response.json(repository);
 });
 
 app.put("/repositories/:id", (request, response) => {
