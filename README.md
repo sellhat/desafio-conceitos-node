@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="200" height="163" src="https://camo.githubusercontent.com/8c13dc2618dbd7f76d1d574350b98fdee1335ce5/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6865616465722e706e67">
+</p>
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Task_Manager_System_0"></a>Desafio back-end NodeJS</h2>
 <h3 class="code-line" data-line-start=2 data-line-end=3 ><a id="Objective_2"></a>Objetivo:</h3>
 <h4 class="code-line" data-line-start=3 data-line-end=4 ><a id="This_application_was_developed_in_order_to_be_able_to_manage_Tasks_being_able_to_register_edit_disable_and_list_various_tasks_3"></a>Desafio do bootcamp Gostack ministrado 
